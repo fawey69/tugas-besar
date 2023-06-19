@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "835348473630",
+    "project_id": "tugas-besar-2f566",
+    "storage_bucket": "tugas-besar-2f566.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835348473630:android:142fce7948aa10aef60b0f",
+        "android_client_info": {
+          "package_name": "com.example.tugas_besar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835348473630-k1hgtddck219vt9fq65lo3n5ep038app.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tugas_besar",
+            "certificate_hash": "70332a2a8f1591fa2cae98b7bc9302b19dd5e8cc"
+          }
+        },
+        {
+          "client_id": "835348473630-sdktvem2h1tpah3r3isd59oinqmidmcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPWdUqO8U-iSL-3qqaKcX-zxwYNo8fdho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835348473630-sdktvem2h1tpah3r3isd59oinqmidmcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
